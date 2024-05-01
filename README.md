@@ -4,3 +4,10 @@
 Dockerisierte installation von [PFERD](https://github.com/Garmelon/PFERD)
 
 # WIP!
+
+# Build
+
+Example:
+```
+docker build --pull -t roboticbrain/pferd:latest .
+```
